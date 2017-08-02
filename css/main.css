@@ -1,0 +1,53 @@
+html{
+    background-color: white;
+    min-height: 100%;
+}
+
+.title{
+    padding-top: 5px;
+    font-size: large;
+}
+.navBar{
+    background-color: black;
+    text-align: center;
+    padding-top: 15px;
+    color: white;
+}
+
+
+
+button{
+    background-color: white;
+    color: black;
+}
+
+.about{
+    padding: 20px;
+}
+.login{
+    margin: auto;
+    width: 400px;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.fa{
+
+    color: black;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding-right: 10px;
+    font-size: large;
+
+}
+.botName{
+    position: absolute;
+    bottom: 0;
+    left:0;
+    padding-left: 10px;
+    font-size: large;
+}
